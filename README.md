@@ -5,6 +5,6 @@ The GASC License for the source codes written by Nj Subedi. Updated at http://nj
 
 The licences are available in different formats for your ease to used.
 
-HTML
-MD
-TXT
+HTML\n
+MD\n
+TXT\n
